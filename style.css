@@ -240,6 +240,21 @@ a.nav-link:focus{
 
 /* news */
 
+.container-fluid{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.row {
+    background-image: url(./img/pic4.jpg);
+}
+
+.p-3{
+    color: #fff;
+    margin: 10px auto;
+}
 
 
 /* footer */
